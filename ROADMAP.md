@@ -2,7 +2,7 @@
 
 **Planning document — not a promise of release dates or completed functionality.**
 
-## Phase 0 — Founding community
+## Phase 0 - Founding community
 
 - [x] Create public GitHub organization and initial repository.
 - [x] Select Apache License 2.0.
@@ -13,7 +13,7 @@
 - [ ] Validate the MVP workflow with prospective creators and contributors.
 - [ ] Agree on technical design through a public discussion.
 
-## Phase 1 — Self-hostable MVP
+## Phase 1 - Self-hostable MVP
 
 **Goal:** Help someone propose a useful project, discover a team, and begin collaborating.
 
@@ -26,14 +26,14 @@
 - [ ] Accessible, responsive interface.
 - [ ] Documented local setup, self-hosted deployment, and tests.
 
-## Phase 2 — Better collaboration
+## Phase 2 - Better collaboration
 
 - [ ] Maintainer and team workflows.
 - [ ] Optional GitHub integration for repository information and verifiable contributions.
 - [ ] Contributor onboarding, milestones, and notifications where useful.
 - [ ] Public release and maintenance status.
 
-## Phase 3 — Sustainable ecosystem
+## Phase 3 - Sustainable ecosystem
 
 - [ ] Multiple independent community projects with trusted maintainers.
 - [ ] Stronger governance and moderation.
