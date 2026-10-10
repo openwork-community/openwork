@@ -19,10 +19,32 @@ Harassment, discrimination, hate speech, threats, intimidation, bullying, person
 
 These standards apply to OpenWork repositories, official discussions, collaboration spaces, and public conduct representing OpenWork.
 
-## Reports and enforcement
 
-**Do not submit private or identifying conduct reports as public issues.** On GitHub, use the platform's built-in abuse/content reporting mechanisms when applicable. A dedicated private reporting contact and appeal process must be configured **before broad contributor onboarding**.
+## Reporting and Enforcement
 
-Maintainers may remove harmful content, issue warnings, limit participation, or escalate serious conduct to appropriate services. Actions should prioritize safety, proportionality, confidentiality, and protection from retaliation.
+If you experience or witness harassment, discrimination,
+threats, or other violations of this Code of Conduct,
+please contact the OpenWork maintainers privately.
 
-These guidelines will be refined transparently as the community develops.
+**Community contact:**
+[openwork.community@gmail.com](mailto:openwork.community@gmail.com)
+
+Please include relevant details so the report can be
+reviewed. Avoid sharing unnecessary sensitive personal
+information.
+
+Do not publish private reports, personal information,
+or identifying details in public GitHub issues or
+discussions.
+
+Reports will be handled discreetly, with information
+shared only as necessary to review and address the
+situation. Absolute confidentiality cannot be guaranteed.
+
+Depending on the circumstances, maintainers may issue
+warnings, remove harmful content, restrict participation,
+or report serious violations to the appropriate platform.
+
+Retaliation against anyone who reports a concern in good
+faith is prohibited.
+
